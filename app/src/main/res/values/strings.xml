@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Proyecto Firebase</string>
+    <string name="Btn_sesion">Iniciar</string>
+    <string name="Btn_registrar">Registrar</string>
+
+    <string name="noticias_btn">Noticias</string>
+    <string name="tipos_btn">Tipos de ganaderia</string>
+    <string name="Razas_btn">Razas de ganado</string>
+    <string name="consejos_btn">Consejos</string>
+    <string name="libros_btn">Libros gratis</string>
+
+    <string name="ultimas_noticias_btn">Las ultimas noticias sobre ganaderia</string>
+
+</resources>
